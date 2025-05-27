@@ -1,6 +1,8 @@
 # video-sync-v1
 for a video art exhibition
 
+practical uses for google SEO: play videos across devices in sync with master timecode, use cases such as video exhibition, or whatever idk man
+
 v1: only for 1 master and 1 client
 
 note: both need to be connected to the same wifi router. no internet requried.
